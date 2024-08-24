@@ -25,12 +25,12 @@
 
 This project features a comprehensive sales dashboard designed to analyze and visualize coffee shop transactions. Developed using Excel and Power Query Editor, it leverages advanced transformation tools to deliver actionable insights. Key tasks and features of the project include:
 
-**Data Cleaning:** Employed Power Query Editor to clean and preprocess raw transaction data, ensuring accuracy and consistency.\n
-**Sales Analysis:** Tracked and visualized key metrics such as total sales, types of coffees purchased, and footfall.
-**Top Products:** Identified and displayed the most popular coffee products to help with inventory and marketing decisions.
-**Hourly Trends:** Analyzed and visualized the quantity of coffees ordered by hour, revealing peak times and patterns in customer behavior.
-**Day-wise Trends:** Provided insights into daily order trends to understand weekly sales patterns and optimize staffing.
-This dashboard is designed to help coffee shop owners and managers make data-driven decisions to enhance sales strategies and operational efficiency.
+<p>**Data Cleaning:** Employed Power Query Editor to clean and preprocess raw transaction data, ensuring accuracy and consistency.<br>
+**Sales Analysis:** Tracked and visualized key metrics such as total sales, types of coffees purchased, and footfall.<br>
+**Top Products:** Identified and displayed the most popular coffee products to help with inventory and marketing decisions.<br>
+**Hourly Trends:** Analyzed and visualized the quantity of coffees ordered by hour, revealing peak times and patterns in customer behavior.<br>
+**Day-wise Trends:** Provided insights into daily order trends to understand weekly sales patterns and optimize staffing.<br>
+This dashboard is designed to help coffee shop owners and managers make data-driven decisions to enhance sales strategies and operational efficiency.</p>
 
 ![Coffee Shop Sales Dashboard Screenshot](https://github.com/adityavulli/Coffee_Shop_Sales_Dashboard/assets/99896700/c31581bb-e3db-4d80-9911-255da7c2bd51)
 
