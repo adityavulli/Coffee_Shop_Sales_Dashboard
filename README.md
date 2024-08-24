@@ -25,7 +25,7 @@
 
 This project features a comprehensive sales dashboard designed to analyze and visualize coffee shop transactions. Developed using Excel and Power Query Editor, it leverages advanced transformation tools to deliver actionable insights. Key tasks and features of the project include:
 
-**Data Cleaning:** Employed Power Query Editor to clean and preprocess raw transaction data, ensuring accuracy and consistency.
+**Data Cleaning:** Employed Power Query Editor to clean and preprocess raw transaction data, ensuring accuracy and consistency.\n
 **Sales Analysis:** Tracked and visualized key metrics such as total sales, types of coffees purchased, and footfall.
 **Top Products:** Identified and displayed the most popular coffee products to help with inventory and marketing decisions.
 **Hourly Trends:** Analyzed and visualized the quantity of coffees ordered by hour, revealing peak times and patterns in customer behavior.
